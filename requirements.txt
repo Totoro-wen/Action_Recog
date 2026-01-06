@@ -1,0 +1,8 @@
+numpy
+imutils
+python-dotenv
+ultralytics
+lap>=0.5.12
+uvicorn
+fastapi
+python-multipart
